@@ -1,0 +1,15 @@
+export default {
+  waiting: false,
+  connectionReady: false,
+  connectionError: null,
+  commandError: null,
+  data: '',
+  stdError: null,
+  code: null,
+  signal: null,
+  error: null,
+  remotePathname: null,
+  localPathname: null,
+  sftError: null,
+  progress: {},
+};
