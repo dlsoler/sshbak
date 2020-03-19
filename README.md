@@ -28,6 +28,8 @@ You can found the shell script filename in the **sshbak** settings.
 
 This shell script file contains the commands to be runned in the server to create the backup files in the remote backup folder.
 
+In the folder **shellscripts** you can found some examples of shell scripts.
+
 **It is very important that the same shell script creates a text file with a list of files to be downloaded**. The file names have to be separated by new lines.
 This text file is downloaded and readed by sshbak to know which files it should download from the remote host to the local machine.
 
