@@ -18,7 +18,7 @@
     "@quasar/extras": "^1.6.0",
     "electron-squirrel-startup": "^1.0.0",
     "quasar": "^1.9.10",
-    "ssh2": "^0.8.4",
+    "ssh2": "^1.4.0",
     "vue-i18n": "^7.3.3"
   },
   "devDependencies": {
